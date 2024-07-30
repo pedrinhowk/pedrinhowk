@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil! ☯️
 
-<!--
-**pedrinhowk/pedrinhowk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🉑 **Meu nome é:** *Pedro*
 
-Here are some ideas to get you started:
+- **Sou estudante do alura**
+- **Sou aluno do 1C**
+- **E sou irmão do chico**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo e-mail abaixo 📫
+
+> *00001130999440sp@aluno.educacao.sp.gov.br*
+
+
+![](https://media1.tenor.com/m/JUP8ildgTf0AAAAC/kkkk.gif)
